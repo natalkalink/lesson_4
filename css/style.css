@@ -1,0 +1,55 @@
+h1 {
+  color: green;
+  font-family: Moloko;
+  font-weight: 700;
+}
+a {
+  color: orange;
+  font-family: fantasque_sans_monobold;
+  font-weight: bold;
+}
+#top1,
+#top2,
+#top3,
+#top4,
+#top5,
+#top6 {
+  color: red;
+  font-family: roboto;
+  font-weight: 900;
+}
+p.sentens {
+  color: blue;
+  font-family: roboto;
+  font-weight: 700;
+}
+p.history {
+  color: brown;
+  font-family: fantasque_sans_monoregular;
+  font-weight: normal;
+}
+p.text {
+  color: darkviolet;
+  font-family: Lato;
+  font-weight: 500;
+}
+p.lock {
+  color: crimson;
+  font-family: fantasque_sans_monoregular;
+  font-weight: normal;
+}
+p.river {
+  color: darkmagenta;
+  font-family: roboto;
+  font-weight: 400;
+}
+p.king {
+  color: green;
+  font-family: fantasque_sans_monobold;
+  font-weight: bold;
+}
+body {
+  color: darkgreen;
+  font-family: Lato;
+  font-weight: 500;
+}
